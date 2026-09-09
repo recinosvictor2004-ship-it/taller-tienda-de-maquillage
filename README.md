@@ -66,7 +66,7 @@ Incluye las relaciones, llaves primarias y llaves foráneas del modelo de la bas
 ### 📌 Vista del diagrama
 
 <p align="center">
-  <img src="../diagramas/docs/img/diagrama-er.png" width="650">
+  <img src="diagrama-er.png" width="650">
 </p>
 
 
