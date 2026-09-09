@@ -422,16 +422,13 @@ CALL productos_mas_vendidos('2024-01-01', '2024-06-30');
 📦 tienda-maquillaje-db
 │
 ├── 📄 README.md
-├── 📁 diagramas
-│   └── diagrama-er.png
+├── 📁 docs
+    └──📁 img
+│       └── diagrama-er.png
 │
-├── 📁 sql
 │   ├── ddl.sql
 │   ├── dml.sql
 │   └── dql.sql
-│
-└── 📁 documentación
-    └── especificación.pdf
 ```
 
 ---
