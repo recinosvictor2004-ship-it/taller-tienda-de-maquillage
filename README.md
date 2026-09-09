@@ -166,6 +166,7 @@ CREATE TABLE DetalleOrdenCompra (
     FOREIGN KEY (id_orden) REFERENCES OrdenCompra(id_orden),
     FOREIGN KEY (id_producto) REFERENCES Producto(id_producto)
 );
+```
 
 ---
 
