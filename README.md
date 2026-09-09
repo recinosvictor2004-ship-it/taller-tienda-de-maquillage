@@ -60,14 +60,13 @@ El modelo E‑R está compuesto por las siguientes entidades:
 ---
 
 ## 🖼️ Diagrama E‑R
-Incluye las relaciones, llaves primarias y llaves foráneas.
 
-![Diagrama ER](../diagramas/docs/img/diagrama-er.png)
+Incluye las relaciones, llaves primarias y llaves foráneas del modelo de la base de datos.
 
-<img src="../diagramas/docs/img/diagrama-er.png" width="600">
+### 📌 Vista del diagrama
 
 <p align="center">
-  <img src="../diagramas/docs/img/diagrama-er.png" width="500">
+  <img src="../diagramas/docs/img/diagrama-er.png" width="650">
 </p>
 
 
